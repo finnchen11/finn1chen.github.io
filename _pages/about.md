@@ -7,17 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
-.company-logo-inline {
-  height: 1em;
+img.company-logo-inline {
+  height: 1em !important;  /* 使用相对单位em */
   width: auto;
-  vertical-align: -0.15em;
+  vertical-align: text-bottom; /* 更好的文本对齐方式 */
   margin-left: 0.3em;
+  margin-right: 0.1em;     /* 添加右侧间距 */
+  position: relative;      /* 微调位置 */
+  top: -0.1em;             /* 微调垂直位置 */
 }
+
 @media (max-width: 768px) {
   .company-logo-inline {
-    height: 0.9em;
+    height: 0.9em;        /* 移动端稍小 */
+    top: -0.05em;         /* 调整移动端位置 */
   }
 }
 </style>
