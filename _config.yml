@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifei Chen"
   avatar           : "images/WechatIMG30715.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : 
   location         : "Shanghai, China"
   employer         : "bilibili"
   pubmed           : 
