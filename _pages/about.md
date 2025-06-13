@@ -11,16 +11,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 ## 👤 Personal Introduction  
-Passionate about tackling challenging tasks, specializing in large language model dialogue systems, LLM inference acceleration, and large model-based medical decision-making.  
+**Passionate about tackling challenging tasks**
+LLM dialogue, LLM inference acceleration
 
 
 ## 📖 Education  
-- *2023.09 - 2026.06 (now)* | East China University of Science and Technology | Computer Technology | Master's Degree  
-- *2019.09 - 2023.06* | Qilu University of Technology | Data Science and Big Data Technology + Accounting | Double Bachelor's Degrees  
+- *2023.09 - 2026.06 (now)* | East China University of Science and Technology | Computer Technology | **Master's Degree**  
+- *2019.09 - 2023.06* | Qilu University of Technology | Data Science and Big Data Technology + Accounting | **Double Bachelor's Degrees**  
 
 
 ## 📝 Publications  
-### 🔸 Academic Papers  
 1. **EMRs2CSP: Mining Clinical Status Pathway from Electronic Medical Records**  
    - **Venue**：ACL 2025 (CCF A)  
    - **Authors**：**Yifei Chen**, Ruihui Hou, Jingping Liu, Tong Ruan*  
@@ -32,17 +32,16 @@ Passionate about tackling challenging tasks, specializing in large language mode
 
 ## 💻 Work Experience  
 1. **bilibili - Game Technology Middle Platform, Algorithm Strategy Team** | *2025.04 - Present* | Algorithm Engineer  
-   - Key Projects：Churn user intervention strategies, intelligent NPC dialogue systems (based on large language models), LLM-based translation optimization, and LLM inference acceleration technologies.  
+   - Focus on：Churn Intervention, LLM Translation, Intelligent NPC, Inference Acceleration
 
 2. **Huolala - Intelligent Operations Department, NLP Algorithm Team** | *2024.11 - 2025.02* | Algorithm Engineer  
-   - Technical Contributions：Public opinion recognition models, liability determination systems, and entity extraction algorithms for large-scale text data.  
+   - Focus on：Sentiment Analysis, Responsibility Judgment
 
 3. **Gongbilin International Travel Agency - Algorithm Team** | *2024.05 - 2024.06* | Algorithm Engineer  
-   - Key Responsibilities：Development of intelligent customer service systems with RAG technology, and multi-agent collaboration frameworks for conversational AI.  
+   - Focus on：Intelligent Customer Service, RAG
 
 4. **NIO - User Digital Products, LTO Team** | *2024.02 - 2024.05* | Test Development Engineer  
-   - Technical Focus：Automated testing frameworks and performance optimization for large model inference systems.  
-
+   - Focus on：Automated Testing, Stress Testing
 
 ## 🏆 Awards & Competitions  
 - **Shandong Province Blue Bridge Cup C++ Programming Competition** | *Provincial First Prize* 
