@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.company-logo-inline {
+  height: 1em;
+  width: auto;
+  vertical-align: -0.15em;
+  margin-left: 0.3em;
+}
+@media (max-width: 768px) {
+  .company-logo-inline {
+    height: 0.9em;
+  }
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 ## 👤 Personal Introduction  
